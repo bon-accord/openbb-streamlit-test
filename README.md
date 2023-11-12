@@ -22,3 +22,9 @@ pip install streamlit-aggrid
 ``` bash
 streamlit hello
 ```
+
+## Launch Application
+
+``` bash
+streamlit run Home.py
+```
